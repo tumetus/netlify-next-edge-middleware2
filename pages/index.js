@@ -19,7 +19,7 @@ export default function Home({ country }) {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Next.js Geolocation in Edge Functions</h1>
+        <h1 className={styles.title}>Next.js Geolocation in Edge Functions!!</h1>
         <p className={styles.description}>
           {country && country !== 'undefined' ? (
             <>
